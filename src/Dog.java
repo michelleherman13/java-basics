@@ -3,8 +3,8 @@
 public class Dog {
     // declaration of attributes
 
-    private String name; // private so it is only accessible within the class
-    private int age;
+    public String name; // private so it is only accessible within the class
+    public int age;
 
     //constructor method typically only create one-(will run automatically whenever we call dog class)
 
